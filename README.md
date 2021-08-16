@@ -1,5 +1,14 @@
 ### Oii, meu nome é Gabriel Moreira
 
+Tenho 17 anos e estou no segundo ano de desenvolvimento de sistemas no Colégio Técnico da UFMG.
+
+Atualmente estou aprendendo NTSL e MQL5 para o desenvolvimento de robos para operações na bolsa de valores.
+
+Além disso, sou Programador e GameDesigner usando a engine Unity.
+
+![Snake animation] https://github.com/moreira-gabriel
+
+
 <!--
 **moreira-gabriel/moreira-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
