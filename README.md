@@ -4,7 +4,7 @@ Tenho 17 anos e estou no segundo ano de desenvolvimento de sistemas no Colégio 
 
 Sou Programador e GameDesigner usando a engine Unity.
 
-Atualmente estou aprendendo NTSL e MQL5 para o desenvolvimento de robos para operações na bolsa de valores.
+Atualmente estou aprendendo NTSL(Nelogica Trade System Language) e MQL5(MetaQuotes Language) para o desenvolvimento de bot para operações na bolsa de valores.
  
 ![Snake Animation](https://github.com/moreira-gabriel/moreira-gabriel/blob/output/github-contribution-grid-snake.svg)
 
