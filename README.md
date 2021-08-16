@@ -6,7 +6,7 @@ Atualmente estou aprendendo NTSL e MQL5 para o desenvolvimento de robos para ope
 
 Além disso, sou Programador e GameDesigner usando a engine Unity.
 
-![Snake animation] https://github.com/moreira-gabriel
+![Snake Animation](https://github.com/moreira-gabriel/moreira-gabriel/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
