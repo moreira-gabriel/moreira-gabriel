@@ -6,6 +6,8 @@
 
 - 👨‍💻Entusiasta de Hacking e CyberSecurity
 
+- 💲Investidor e Trader em construção
+
 - 💸Estudando NTSL(Nelogica Trade System Language) e MQL5(MetaQuotes Language) para o desenvolvimento de bots para operações na bolsa de valores.
 
 <!-- GITHUB STATS -->
