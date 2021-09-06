@@ -8,7 +8,7 @@
 
 - 💲Investidor e Trader em construção
 
-- 📱Estudando Flutter para o desenvolvimento de aplicativos móveis
+<!-- - 📱Estudando Flutter para o desenvolvimento de aplicativos móveis -->
 
 - 💸Estudando NTSL(Nelogica Trade System Language) e MQL5(MetaQuotes Language) para o desenvolvimento de bots para operações na bolsa de valores.
 
