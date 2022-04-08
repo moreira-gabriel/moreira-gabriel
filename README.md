@@ -29,6 +29,7 @@
   <a href="thenightx.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" height="30em"></a> 
   <a href = "mailto:silgabrielmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30em"></a>
   <a href = "twitter.com/moreirakkkk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" height="30em"></a>
+  <a href = "https://www.linkedin.com/in/gabriel-moreira-b35568235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30em"></a>
 </div>
 
 ##
