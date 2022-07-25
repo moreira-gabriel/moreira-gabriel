@@ -36,6 +36,7 @@
  
 ![Snake Animation](https://github.com/moreira-gabriel/moreira-gabriel/blob/output/github-contribution-grid-snake.svg)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-gabriel&layout=compact&langs_count=7&theme=dark"/>
 <!--
 **moreira-gabriel/moreira-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
