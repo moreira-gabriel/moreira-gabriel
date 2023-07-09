@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gabriel Moreira
 
-- 🎂Tenho 18 anos e estou no Terceiro ano de Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
+- 🎂Tenho 19 anos e estou no Terceiro ano de Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
 
 - 🎮Programador C# e GameDesigner usando a engine Unity.
 
