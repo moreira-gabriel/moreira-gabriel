@@ -1,12 +1,9 @@
 ### Olá! Meu nome é Gabriel Moreira
 
-- 🎂Tenho 19 anos e estou no Terceiro ano de Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
-
-- 🎮Programador C# e GameDesigner usando a engine Unity.
-
-- 💲Investidor e Trader em construção
-
-- 📱Estudando Dart e Flutter para o desenvolvimento de aplicativos móveis
+- Tenho 19 anos e estou sou formado em Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
+- Programador C# e GameDesigner
+- Unity e Godot
+- Estudando Dart e Flutter para o desenvolvimento de aplicativos móveis
 
 <!-- - 💸Estudando NTSL(Nelogica Trade System Language) e MQL5(MetaQuotes Language) para o desenvolvimento de bots para operações na bolsa de valores. -->
 
