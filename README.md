@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gabriel Moreira
 
-- Tenho 19 anos e estou sou formado em Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
+- Tenho 19 anos e sou formado em Desenvolvimento de Sistemas no Colégio Técnico da UFMG.
 - Programador C# e GameDesigner
 - Unity e Godot
 - Estudando Dart e Flutter para o desenvolvimento de aplicativos móveis
